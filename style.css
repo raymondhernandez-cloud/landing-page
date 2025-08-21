@@ -1,0 +1,169 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  gap: 10px;
+}
+
+header {
+  background-color: #1f2937;
+  color: white;
+  font-size: 36px;
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+  gap: 42%;
+  padding-top: 10px;
+}
+
+section {
+  background-color: #1f2937;
+  color: white;
+  padding: 80px;
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  padding-bottom: 15%;
+}
+
+li {
+  display: inline-block;
+  font-size: 18px;
+}
+
+.first {
+  margin-right: 13%;
+}
+
+.importantText {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.secondaryText {
+  font-size: 24px;
+  width: 120%;
+}
+
+.signUp {
+  background-color: #3882f6;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  width: 110px;
+  height: 35px;
+  border: #3882f6;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.sectionImage {
+  width: 500px;
+  height: 130%;
+  margin-right: 80px;
+}
+
+main {
+  margin-top: 3%;
+  padding-bottom: 70px;
+}
+
+.mainHeading {
+  color: #1f2937;
+  text-align: center;
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+  margin-top: 3%;
+  gap: 40px;
+}
+
+.card {
+  width: 200px;
+  text-align: center;
+}
+
+.smallImage {
+  height: 150px;
+  width: 200px;
+  border: solid 2px #3882f6;
+  border-radius: 10px;
+}
+
+.testimonial {
+  background-color: #e5e7eb;
+  color: #1f2937;
+  font-style: italic;
+  font-size: 36px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 5%;
+}
+
+.quote {
+  width: 50%;
+  padding: 5%;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: right;
+  width: 50%;
+}
+
+.signUp2 {
+  background-color: #3882f6;
+  color: white;
+  height: 150px;
+  width: 800px;
+  margin-top: 7%;
+  margin-left: 22%;
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+  border-radius: 10px;
+}
+
+.signUp2Message {
+  font-size: 20px;
+  margin-top: 7%;
+}
+
+.signUp2ButtonContainer {
+  margin-top: 8%;
+}
+
+.signUp2Button {
+  background-color: #3882f6;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  width: 110px;
+  height: 35px;
+  border: white 2px solid;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #1f2937;
+  color: white;
+  font-size: 18px;
+  margin-top: 5%;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
