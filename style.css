@@ -21,6 +21,10 @@ header {
   padding-top: 10px;
 }
 
+header h3 {
+  margin-right: 100px;
+}
+
 section {
   background-color: #1f2937;
   color: white;
@@ -37,7 +41,7 @@ li {
 }
 
 .first {
-  margin-right: 13%;
+  margin-left: 2%;
 }
 
 .importantText {
@@ -47,7 +51,7 @@ li {
 
 .secondaryText {
   font-size: 24px;
-  width: 120%;
+  width: 95%;
 }
 
 .signUp {
@@ -66,7 +70,7 @@ li {
 .sectionImage {
   width: 500px;
   height: 130%;
-  margin-right: 80px;
+  margin-leftt: 80px;
 }
 
 main {
